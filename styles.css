@@ -7,3 +7,8 @@ button {
 h3{
     color:navy
 }
+.flag {
+    width: 100px;
+    height: auto;
+    margin: 5px;
+}
